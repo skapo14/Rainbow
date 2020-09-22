@@ -12,4 +12,4 @@ val2 = input("Enter second num:")
 val3 = input("Enter third num:")
 
 print(isequal(val1, val2, val3))
-@skapo14
+#@skapo14
